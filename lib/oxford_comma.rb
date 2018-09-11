@@ -7,4 +7,5 @@ case array
       array.join(" and ")
     end
   end
+  end
 end
